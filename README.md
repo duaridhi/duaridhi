@@ -10,10 +10,10 @@ I currently work as a **remote / freelance engineer and consultant**, helping te
 
 ## What I Work On
 
-- 🔍 **Search platforms** — Elasticsearch, relevance tuning, structured & unstructured data
+- 🔍 **Search platforms** — Elasticsearch, vector databases like Vespa.ai, relevance tuning, structured & unstructured data
 - ⚙️ **Backend engineering** — Java, APIs, microservices, concurrency
-- 📊 **Distributed data systems** — Kafka, Spark, Hadoop
-- 🧠 **System design & architecture** — scalable, fault-tolerant platforms
+- 📊 **Distributed data systems** — Real time pipelines using Kafka, Spark streaming and batch pipelines with Spark, Hadoop
+- 🧠 **System design & architecture** — scalable, fault-tolerant platforms folloing gree - blue deployments
 - 🧪 **Performance & reliability** — tuning, bottleneck analysis, production hardening
 
 ---
@@ -27,7 +27,7 @@ I currently work as a **remote / freelance engineer and consultant**, helping te
 
 **Search & Data**
 - Elasticsearch
-- Vector databases
+- Vector databases like Vespa.ai
 - Kafka
 - Spark / Hadoop
 - HDFS / HBase
