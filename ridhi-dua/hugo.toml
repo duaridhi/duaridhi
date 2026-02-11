@@ -1,0 +1,30 @@
+baseURL = 'https://duaridhi.github.io/'
+languageCode = 'en-us'
+title = 'Ridhi Dua'
+theme = 'hextra'
+
+[params]
+  description = "Full-stack search and AI engineering"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    pageRef = "/services"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    pageRef = "/blog"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 4

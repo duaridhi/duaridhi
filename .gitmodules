@@ -1,0 +1,3 @@
+[submodule "ridhi-dua/themes/hextra"]
+	path = ridhi-dua/themes/hextra
+	url = https://github.com/imfing/hextra.git
